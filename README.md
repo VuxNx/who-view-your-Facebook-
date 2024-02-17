@@ -8,7 +8,7 @@
   4. Ctrl + C, Ctrl + V to copy and paste them into source.txt
   5. Finally, add your path in file .cpp (source.txt, output.txt)
   6. Enjoy !!
-+ Or, you can do it by running: view-source:your_link_Facebook
++ Or, you can do it instead step 2 by running: view-source:your_link_Facebook
 
 __Give me 1 star to give me more motivation ❤ __\
 _____Thank you_____
